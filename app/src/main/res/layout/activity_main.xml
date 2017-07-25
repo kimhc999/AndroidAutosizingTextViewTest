@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hckim.autosizingtextviewtest.MainActivity"
+    android:orientation="vertical">
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/checkbox_test"
+        android:onClick="onClickCheckboxTest"
+        />
+    <Button android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/checkbox_support_library_test"
+        android:onClick="onClickCheckboxSupportTest"
+        />
+    <Button android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/edittext_test"
+        android:onClick="onClickEdittextTest"
+        />
+    <Button android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/edittext_support_library_test"
+        android:onClick="onClickEdittextSupportTest"
+        />
+    <Button android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/toggle_test"
+        android:onClick="onClickToggleButtonTest"
+        />
+    <Button android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/toggle_support_library_test"
+        android:onClick="onClickToggleButtonSupportTest"
+        />
+
+</LinearLayout>

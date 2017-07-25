@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutosizingTextViewTest</string>
+    <string name="test_word">HelloWorldHelloWorldHelloWorldHelloWorldHelloWorldHelloWorldHelloWorldHelloWorldHelloWorldHelloWorldHelloWorldHelloWorld!</string>
+    <string name="on">On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!On!</string>
+    <string name="off">Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!Off!</string>
+    <string name="checkbox_test">Checkbox Test</string>
+    <string name="checkbox_support_library_test">Checkbox Support Library Test</string>
+    <string name="edittext_test">EditText Test</string>
+    <string name="edittext_support_library_test">EditText Support Library Test</string>
+    <string name="toggle_test">ToggleButton Test</string>
+    <string name="toggle_support_library_test">ToggleButton Support Library Test</string>
+</resources>
